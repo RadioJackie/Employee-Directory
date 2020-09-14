@@ -5,7 +5,7 @@ const JumbotronPage = () => {
   return (
     <MDBJumbotron fluid>
       <MDBContainer>
-        <h2 className="display-4">Fluid jumbotron</h2>
+        <h2 className="display-4">Employee Directory</h2>
         <p className="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
       </MDBContainer>
     </MDBJumbotron>
